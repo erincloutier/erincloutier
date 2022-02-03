@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @erincloutier
+- 👀 I’m interested in making our products fun to use. 
+- 🌱 I’m currently learning about design sprints.
+- 💞️ I’m looking to collaborate on usability testing and talking to users!
+- 📫 How to reach me is probably best on Slack :)
